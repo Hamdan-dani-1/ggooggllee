@@ -1,151 +1,269 @@
-*{
-    padding: 0px;
-    margin: 0px;
-}
-@media screen and (max-width:2000px) {
-    .logo img{ 
-        width: 30%;
-        margin-right: 22rem;
-    }
+
+@media screen and (max-width:1500px) {
+
+
     .nav{
-        margin-right: 21rem;
+        width: 100%;
+        margin-left: 50rem;
+    }
+    .container{
+        margin-left: 5rem;
+        width: 100%;
+    }
+}
+   
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1907px) {
+   
+     body{
+        overflow: hidden;
+        height: 50vh;
+   
+     }
+
+    .nav{
+        margin-right: 432rem;
+        width: 70%;
     }
     .main{
-        margin-right: 5rem;
+        width: 50%;
     }
-    .buttons{
-        width: 40%;
-        margin-right: 12rem
+
+
+    
+}
+@media screen and (max-width:1497px) {
+    .nav{
+        width:40%;
     }
-    .logo{
-        margin-right: ;
+    
+}
+@media screen and (max-width:1447px) {
+    .nav{
+        width:35%;
+    }
+.container{
+    margin-left: -12rem;
+}
+    
+}
+@media screen and (max-width:1409px) {
+    .nav{
+        width:33%;
+    }
+.container{
+    margin-left: -12rem;
+   
+}
+.buttons{
+    width: 100%;
+}
+    
+}
+@media screen and (max-width:1209px) {
+    .nav{
+        width:25%;
+    }
+.container{
+    margin-left: -13rem;
+   
+}
+.buttons{
+    width: 100%;
+}
+    
+}
+@media screen and (max-width:963px) {
+    .nav{
+        width:18%;
+    }
+.container{
+    margin-left: -19rem;
+   
+}
+.buttons{
+    width: 100%;
+}
+    
+}
+@media screen and (max-width:943px) {
+    .nav{
+        width:25%;
+        margin-left: 26rem;
+    }
+.container{
+    margin-left: -19rem;
+   
+}
+.buttons{
+    width: 100%;
+}
+    
+}
+@media screen and (max-width:899px) {
+    .nav{
+        width:22%;
+        margin-left: 25rem;
+    }
+.container{
+    margin-left: -23rem;
+   
+}
+.buttons{
+    width: 100%;
+}
+    
+}
+@media screen and (max-width:659px) {
+    .nav{
+        width:25%;
+        margin-left: 25rem;
+    }
+.container{
+    margin-left: -23rem;
+   
+}
+.buttons{
+    width: 100%;
+}
+    
+}
+@media screen and (max-width:568px) {
+    .nav{
+        width:27%;
+        margin-left: 23rem;
     }
     .ino{
-        max-width: 300%;
+        margin-left: 0rem;
+        width: 29rem;
     }
-    .icons{
-        width: 100%;
-    }.fa-magnifying-glass{
-        position: absolute;
-        color: rgba(0, 0, 0, 0.315);
-        margin-top: -1.8rem;
-        margin-left: 1rem;
+    .fa-camera {
+        margin-left: 28rem;
     }
     .fa-microphone{
-        position: absolute;
-        margin-top: -1.8rem;
-        margin-left: 28rem;
-        color: rgba(8, 8, 8, 0.514);
-    
+        margin-left: 26rem;
     }
-    .fa-camera{
-        position: absolute;
-        margin-top: -1.8rem;
-        margin-left: 30rem;
-        color: rgba(0, 0, 0, 0.562);
     
-    }
-   .pak{
-    margin-top: 15rem;
-   }
-    
+.container{
+    margin-left: -23rem;
+   
 }
-@media screen and (max-width:1000px) {
-.pak{
-    margin-top: 40rem;
+.buttons{
+    width: 100%;
 }
-.nav{
-margin-right: 1112rem;
-} 
 
-
-}
- @media screen and (max-width:1500px) {
-  .logo img{ 
-        width: 30%;
-        margin-right: 22rem;
-    }
+   } 
+@media screen and (max-width:512px) {
     .nav{
-        margin-right: 8rem;
-    }
-    .main{
-        margin-right: 5rem;
-    }
-    .buttons{
-        width: 40%;
-        margin-right: 12rem
+        width:30%;
+        margin-left: 19rem;
     }
     .logo{
-        margin-right: ;
+        margin-left: -3rem;
     }
     .ino{
-        max-width: 300%;
+        margin-left: 0rem;
+        width: 25rem;
     }
-    .icons{
-        width: 100%;
-    }.fa-magnifying-glass{
-        position: absolute;
-        color: rgba(0, 0, 0, 0.315);
-        margin-top: -1.8rem;
-        margin-left: 1rem;
+    .fa-camera {
+        margin-left: 23rem;
     }
     .fa-microphone{
-        position: absolute;
-        margin-top: -1.8rem;
-        margin-left: 28rem;
-        color: rgba(8, 8, 8, 0.514);
-    
+        margin-left: 21rem;
     }
-    .fa-camera{
-        position: absolute;
-        margin-top: -1.8rem;
-        margin-left: 30rem;
-        color: rgba(0, 0, 0, 0.562);
     
-    }
-   .pak{
-    margin-top: 15rem;
-   }
-    
+.container{
+    margin-left: -23rem;
+   
 }
-@media screen and (max-width:1000px) {
-.pak{
-    margin-top: 40rem;
+.buttons{
+    width: 100%;
 }
-.nav{
-margin-right: 1112rem;
-} 
-}
-@media screen and (max-width:1200px) {
 
+   } 
+@media screen and (max-width:434px) {
     .nav{
-        margin-right: 15rem;
+        width:50%;
+        margin-left: 9rem;
     }
+    .logo{
+        margin-left: -6rem;
+    
+    }
+    .logo img{
+        width: 60%;
+    }
+    .ino{
+        margin-left: 0rem;
+        width: 18rem;
+    }
+    .fa-camera {
+        margin-left: 16rem;
+    }
+    .fa-microphone{
+        margin-left: 14rem;
+    }
+    
+.container{
+    margin-left: -23rem;
+   
+}
+.buttons{
+    width: 130%;
+    margin-left: 22rem;
+
+}
+
+   } 
+
+
+   /* footer responsiveness */
+
+@media screen and (max-width:1500px){
+    .pak{
+        margin-top: 7rem;
+    }
+}
+@media screen and (max-width:2060px){
+    .pak{
+        margin-top: 21rem;
+    }
+}
+@media screen and (max-width:1060px){
+    .pak{
+        margin-top: 21rem;
+    }
+}
+@media screen and (max-width:414px){
+    .pak{
+        margin-top: 27rem;
+    }
+}
+@media screen and (max-width:394px){
     .pak{
         margin-top: 24rem;
     }
 }
-
-@media screen and (max-width:1040px){
-    .nav{
-        margin-right: 14px;
-    }
-}
-@media screen and (max-width:840px){
+@media screen and (max-width:434px){
     .pak{
-        overflow: hidden;
-        margin-top: 43rem;
-    
+        margin-top: 29rem;
     }
 }
-@media screen and (max-width:960px)
-    {
-        .pak{
-            overflow: hidden;
-            margin-top:40rem ;
-        }
-        .container{
-            padding-left: 0;
-        }
-
+@media screen and (max-width:412px){
+    .pak{
+        margin-top: 31rem;
     }
+}
+@media screen and (max-width:360px){
+    .pak{
+        margin-top: 21rem;
+    }
+}
