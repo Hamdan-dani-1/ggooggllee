@@ -262,8 +262,14 @@
         margin-top: 31rem;
     }
 }
-@media screen and (max-width:360px){
-    .pak{
-        margin-top: 21rem;
+@media screen and (max-width:960px)
+    {
+        .pak{
+            overflow: hidden;
+            margin-top:40rem ;
+        }
+        .container{
+            padding-left: 0;
+        }
+
     }
-}
